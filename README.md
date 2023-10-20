@@ -1,1 +1,1 @@
-# DevOps for Python Intro
+# Python for DevOps Intro
